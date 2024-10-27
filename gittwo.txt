@@ -1,1 +1,2 @@
 This is second file before branching
+After creating branch and before merging
